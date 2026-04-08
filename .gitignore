@@ -1,0 +1,8 @@
+node_modules/
+backend/tradeflow.db
+backend/tradeflow.db-shm
+backend/tradeflow.db-wal
+.env
+*.log
+prompt.txt
+claude-output.txt
